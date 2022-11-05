@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Brazhnyk Aleks</title>
+</head>
+<body>
+    <table cellspacing="15">
+        <tr>
+            <td>
+                <img src="C:\Users\admin\Desktop\IT JAVA\img\photo_2022-04-25_13-09-32.jpg"
+                weidth="200" alt="this my photo"/>
+            </td>
+            <td> <h1>Brazhnyk Aleksandr</h1>
+                <p><em>Я начинающий <strong>програмист</strong></em></p>
+                <p><em>Я люблю заниматься футболом,чтением,
+                изучением новых проектов для инвестирования</em></p></td>
+
+        </tr>
+    </table>
+    <hr>
+    
+   
+
+
+    <hr>
+
+    <h2>Мои социальные сети</h2>
+    <ul type="square">
+        <li><a href="https://www.instagram.com/brazhnik.aleksandr_/"
+            target="_blank">https://instagram.com/brazhnik.aleksandr_</a></li>
+        <li><a href="https://t.me/AleksaBrazhnyk"
+            target="_blank">https://t.me/AleksaBrazhnyk</a></li>
+    </ul>
+    <hr>
+
+    <h2>Мои хобби</h2>
+    <ol>
+        <li>Чтение</li>
+        <li>Трейдинг</li>
+        <li>Футбол</li>
+    </ol>
+    
+    </form>
+
+    <h2>Опыт работы</h2>
+    <table>
+        <tbody>
+            <tr>
+            <th>Компания</th>
+            <th>Должность</th>
+            <th>Год</th>
+        </tr>
+        <tr>
+            <td>Software Outsorcing Services</td>
+            <td>Lead Frontend</td>
+            <td>2017-2019</td>
+            
+        </tr>
+        <tr>
+            <td>EPAM</td>
+            <td>Software Enginer</td>
+            <td>2021-2022</td>
+        </tr></tbody>
+    </table>
+    <hr>
+
+    <h2> Youtube Курсы</h2>
+    <a href="youtube.html">Посмотреть список</a>
+    
+    <hr>
+    <h2>Связаться со мной</h2>
+    <form action="/">
+        <label for="name">Your name:</label>
+        <input type="text" id="name"
+        placeholder="Введите ваше имя...">
+
+        <br>
+
+        <label for="email">Your Email:</label>
+        <input type="email" id="email"
+        placeholder="Введите email...">
+
+        <br>
+
+        <input type="submit" value="Связаться">
+
+        <br>
+
+        <label for="text">Ваше сообщение:</label>
+        <textarea id="text" rows="2" cols="15"></textarea>
+
+        <br>
+        
+</body>
+</html>
